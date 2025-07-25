@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/RullzFuqi/RullzFuqi/main/assets/wave.gif" width="40px" alt="Wave"> 
+  <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF"> 
   Hey, I'm RullzFuqi
-  <img src="https://raw.githubusercontent.com/RullzFuqi/RullzFuqi/main/assets/code.gif" width="40px" alt="Code">
+  <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF">
 </h1>
 
 <p align="center">
@@ -90,7 +90,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RullzFuqi/RullzFuqi/main/assets/rocket.gif" width="150px" alt="Rocket">
+  <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF">
 </div>
 
 <h3 align="center"> 
