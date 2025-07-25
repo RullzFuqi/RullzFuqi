@@ -1,103 +1,98 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/RullzFuqi/RullzFuqi/main/assets/wave.gif" width="40px" alt="Wave"> 
+  Hey, I'm RullzFuqi
+  <img src="https://raw.githubusercontent.com/RullzFuqi/RullzFuqi/main/assets/code.gif" width="40px" alt="Code">
+</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/md3R6H5.gif" width="60" alt="hi" />
-</p>
-<h1 align="center">Kon'nichiwa, I'm ꋪᴜʟʟᴢ (RullzFuqi)!</h1>
-<p align="center">
-  <img src="https://i.imgur.com/md3R6H5.gif" width="60" alt="hi" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=4000&pause=500&color=FF79C6&center=true&vCenter=true&width=500&height=70&lines=Frontend+Padawan+%F0%9F%93%9A%7C+Anime+Enjoyer+%F0%9F%8E%AD;Building+Projects+That+Spark+Joy+%E2%9C%A8;Learning+Every+Single+Day+%F0%9F%93%96;%22Gambatte%21%22+%F0%9F%A4%B7" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&color=5D3FD3&center=true&vCenter=true&width=500&lines=Frontend+Developer;Open+Source+Enthusiast;Continuous+Learner;Problem+Solver" alt="Typing Animation">
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RullzFuqi&label=Profile+Views&color=FF79C6&style=flat" alt="Profile views" /> 
+  <a href="https://github.com/RullzFuqi">
+    <img src="https://komarev.com/ghpvc/?username=RullzFuqi&label=Profile+Views&color=5D3FD3&style=flat" alt="Profile views">
+  </a>
   <a href="https://github.com/RullzFuqi?tab=followers">
-    <img src="https://img.shields.io/github/followers/RullzFuqi?label=Followers&color=FF79C6&style=flat" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/RullzFuqi?label=Followers&color=5D3FD3&style=flat" alt="GitHub followers">
   </a>
 </div>
 
 ---
 
-## 🌸 About Me
-
-<p align="center">
-  <img src="https://i.imgur.com/6hXlR3t.gif" width="200">
-</p>
+## 🚀 About Me
 
 ```diff
-+ 💻 Coding Journey: Frontend Development (HTML/CSS/JS) → Python → Fullstack
-! 🌱 Currently watering: Tailwind CSS and JavaScript gardens
-# 🎯 Next targets: React, Node.js, Docker
-- 🍵 Philosophy: "Code like you're in a training montage!"
++ Currently learning: JavaScript, React, Node.js
+! Exploring: Tailwind CSS, Express, basic APIs
+# Interested in: Clean code, UI/UX design, beginner-friendly open source
+- Fun fact: Sometimes I get coding ideas while lying down 😴
 ```
 
 ---
 
-## 🎮 Tech & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,css,html,py,git,github,vscode" alt="Tech Stack">
 </p>
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Current+Tech+Loadout&fontSize=16&lineCount=1&line1=html,html5,E34F26;css,css3,1572B6;tailwind,tailwindcss,38BDF8;js,javascript,F7DF1E;python,python,4B8BBE;" alt="Tech Stack" />
-</div>
-
 ---
 
-## 🎯 Featured Projects
-
-### ✨ Fuqi-MD 
-[![Fuqi-MD](https://github-readme-stats.vercel.app/api/pin/?username=RullzFuqi&repo=Fuqi-MD&theme=radical)](https://github.com/RullzFuqi/Fuqi-MD)  
-📱 WhatsApp bot base with Baileys & pairing  
-`Baileys` `WhatsApp API` `Node.js`
-
-### 🛠️ Tools-termux 
-[![Tools-termux](https://github-readme-stats.vercel.app/api/pin/?username=RullzFuqi&repo=Tools-termux&theme=radical)](https://github.com/RullzFuqi/Tools-termux)  
-🔧 Lightweight scripts & tools collection for Termux  
-`Bash` `Termux` `Automation`
-
-### ⚡ X-Baileys 
-[![X-Baileys](https://github-readme-stats.vercel.app/api/pin/?username=RullzFuqi&repo=X-Baileys&theme=radical)](https://github.com/RullzFuqi/X-Baileys)  
-🛠️ Wrapper & helper for Baileys WhatsApp Bot  
-`JavaScript` `Baileys` `WhatsApp Bot`
-
----
-
-## 📊 GitHub Stats
+## 🔥 Featured Projects
 
 <div align="center">
-  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=RullzFuqi&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-  
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RullzFuqi&theme=radical&fire=FF79C6)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RullzFuqi&layout=compact&theme=radical)
+
+### Fuqi-MD
+[![Fuqi-MD](https://github-readme-stats.vercel.app/api/pin/?username=RullzFuqi&repo=Fuqi-MD&theme=nightowl)](https://github.com/RullzFuqi/Fuqi-MD)  
+🔌 WhatsApp bot framework with Baileys integration  
+`Node.js` `Baileys` `WhatsApp API`
+
+### Tools-termux
+[![Tools-termux](https://github-readme-stats.vercel.app/api/pin/?username=RullzFuqi&repo=Tools-termux&theme=nightowl)](https://github.com/RullzFuqi/Tools-termux)  
+🛠️ Lightweight Termux utility scripts  
+`Bash` `Python` `Termux` `Automation`
+
+### X-Baileys
+[![X-Baileys](https://github-readme-stats.vercel.app/api/pin/?username=RullzFuqi&repo=X-Baileys&theme=nightowl)](https://github.com/RullzFuqi/X-Baileys)  
+🧰 Baileys WhatsApp Bot utilities  
+`JavaScript` `Baileys` `WhatsApp`
 
 </div>
 
 ---
 
-## 🌸 Connect With Me
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=RullzFuqi&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RullzFuqi&theme=nightowl&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RullzFuqi&layout=compact&theme=nightowl&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/RullzFuqi">
-    <img src="https://img.shields.io/badge/GitHub-FF79C6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.youtube.com/@rullzaoshi">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://www.tiktok.com/@rullzcode01">
-    <img src="https://img.shields.io/badge/TikTok-FF79C6?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/0yW7rGk.gif" width="150"> 
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RullzFuqi/RullzFuqi/main/assets/rocket.gif" width="150px" alt="Rocket">
+</div>
 
 <h3 align="center"> 
-  ⚡ May your code compile on the first try ⚡
+  Keep coding, keep shipping! 🚀
 </h3>
