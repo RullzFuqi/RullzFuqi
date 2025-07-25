@@ -1,62 +1,65 @@
-<h1 align="center">👋 Halo, saya Syahrul Afwan!</h1>
+<h1 align="center">👋 Hi, I'm ꋪᴜʟʟᴢ (RullzFuqi)!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D1B2&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+a+Fullstack+Developer;I+love+building+cool+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Learning+HTML+%7C+CSS+%7C+Tailwind+%7C+JS+%7C+Python;Building+Fun+Side+Projects;Still+a+Beginner" alt="Typing SVG" />
 </p>
 
 ---
 
-## ✨ Tentang Saya
+## 🎯 About Me
 
-- 🔭 Saat ini fokus di: **Bot WhatsApp**, **API Development**, dan **Bot Automation**
-- ⚡ Skill utama: `Node.js`, `JavaScript`, `Express`, `MongoDB`, `Baileys`
-- 💬 Sering bereksperimen dengan: `Pterodactyl`, `Webhooks`, `RESTful APIs`
-- 🧠 Target belajar saat ini: `Next.js`, `TypeScript`, dan `Redis`
-- ☕ Motto hidup: *"Bangun, ngoding, tidur (kadang lupa tidur)"*
-
----
-
-## 🛠️ Tools & Teknologi
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
-![Termux](https://img.shields.io/badge/-Termux-000?style=for-the-badge&logo=gnu-bash)
-![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-000?style=for-the-badge&logo=data)
+- 🌱 **Level:** Beginner  
+- 💻 **Currently experimenting with:** HTML, CSS, Tailwind CSS, JavaScript, Python  
+- 🚀 **Next on my list:** React, Node.js, and Docker  
+- ☕ **Motto:** _"Belajar sambil ngoding, gagal itu biasa, bangkit lagi!"_
 
 ---
 
-## 📌 Proyek Unggulan
-
-| Proyek | Deskripsi | Status |
-|--------|-----------|--------|
-| **WhatsBot Base** | Script Bot WhatsApp modern pakai Baileys versi pairing | 🚧 Sedang dikembangkan |
-| **API Store Panel** | API untuk jual beli panel Pterodactyl full otomasi | ✅ Selesai |
-| **RESTful Tools API** | Koleksi API tools publik (yt, ig, downloader) | 🧪 Beta |
-
----
-
-## 📈 Stats & Aktivitas
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syahrulafwan&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrulafwan&layout=compact&theme=radical" height="165" />
+  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5" />  
+  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3" />  
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />  
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript" />  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
 </p>
 
 ---
 
-## 📫 Kontak Saya
+## 📌 Featured Projects
 
-- 📍 Asal: Indonesia
-- 📬 Email: `syahruldev@gmail.com`
-- 💼 Telegram: [@syahruldev](https://t.me/syahruldev)
+| Project        | Description                                      | Link                                    |
+| -------------- | ------------------------------------------------ | --------------------------------------- |
+| **Fuqi‑MD**    | 📱 WhatsApp bot base dengan Baileys & pairing    | [github.com/RullzFuqi/Fuqi-MD](https://github.com/RullzFuqi/Fuqi-MD) |
+| **Tools‑termux** | 🔧 Koleksi skrip & tools ringan untuk Termux   | [github.com/RullzFuqi/Tools-termux](https://github.com/RullzFuqi/Tools-termux) |
+| **X‑Baileys**  | 🛠️ Wrapper & helper untuk Baileys WhatsApp Bot    | [github.com/RullzFuqi/X-Baileys](https://github.com/RullzFuqi/X-Baileys) |
 
 ---
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syahrulafwan&theme=onedark&no-frame=true&column=4" />
+  <a href="https://github.com/RullzFuqi">
+    <img src="https://github-readme-stats.vercel.app/api?username=RullzFuqi&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/RullzFuqi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RullzFuqi&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 
-<p align="center">Made with ❤️ by Syahrul</p>
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/RullzFuqi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/@rullzaoshi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@rullzcode01"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok" alt="TikTok" /></a>
+</p>
+
+<p align="center">
+  Made with ❤️ by ꋪᴜʟʟᴢ  
+</p>
