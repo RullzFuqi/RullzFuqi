@@ -1,9 +1,11 @@
 
-<h1 align="center">
-  <img src="https://i.imgur.com/md3R6H5.gif" width="80px"> 
-  Kon'nichiwa, I'm ꋪᴜʟʟᴢ (RullzFuqi)! 
-  <img src="https://i.imgur.com/md3R6H5.gif" width="80px">
-</h1>
+<p align="center">
+  <img src="https://i.imgur.com/md3R6H5.gif" width="60" alt="hi" />
+</p>
+<h1 align="center">Kon'nichiwa, I'm ꋪᴜʟʟᴢ (RullzFuqi)!</h1>
+<p align="center">
+  <img src="https://i.imgur.com/md3R6H5.gif" width="60" alt="hi" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=4000&pause=500&color=FF79C6&center=true&vCenter=true&width=500&height=70&lines=Frontend+Padawan+%F0%9F%93%9A%7C+Anime+Enjoyer+%F0%9F%8E%AD;Building+Projects+That+Spark+Joy+%E2%9C%A8;Learning+Every+Single+Day+%F0%9F%93%96;%22Gambatte%21%22+%F0%9F%A4%B7" alt="Typing animation" />
