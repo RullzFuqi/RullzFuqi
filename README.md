@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,css,html,py,git,github,vscode" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,tailwind,css,html,py,github,acode" alt="Tech Stack">
 </p>
 
 ---
