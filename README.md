@@ -1,65 +1,44 @@
-# Hi 👋, I'm Syahrul Afwan
-
-💻 Pelajar yang suka coding dan develop aplikasi.  
-📚 Fokus belajar **JavaScript**, **Python**, dan **OpenEdge ABL**.  
-🤝 Terbuka untuk kolaborasi & sharing pengetahuan.  
-
----
-
-## 🔧 Skills
-
-- **JavaScript / Node.js** (Bot WhatsApp, API)
-- **Python** (Automation, scripting)
-- **OpenEdge ABL** (ERP, database business logic)
+<!-- Banner Animasi -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=RullzFuqi;Fuqi+Team" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📂 Contoh Kode OpenEdge ABL
-
-### Hello World
-```abl
-MESSAGE "Hello, World!" VIEW-AS ALERT-BOX.
-
-Query Data
-
-FOR EACH Customer NO-LOCK:
-    DISPLAY Customer.Name Customer.Balance.
-END.
-
-Update Data
-
-FIND Customer WHERE Customer.ID = 100 EXCLUSIVE-LOCK NO-ERROR.
-IF AVAILABLE Customer THEN DO:
-    Customer.Balance = Customer.Balance + 500.
-    UPDATE Customer.
-END.
-
+## 👋 About Me
+Halo, saya **RullzFuqi**.  
+Seorang pelajar yang suka ngulik **JavaScript**, bikin bot WhatsApp, dan explore teknologi baru.
 
 ---
 
-📊 GitHub Stats
-
-
-
-
-
+## 🚀 Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,git,express" />
+</p>
 
 ---
 
-🌐 Connect with Me
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RullzFuqi&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RullzFuqi&theme=tokyonight" height="165" />
+</p>
 
-Instagram
-
-LinkedIn
-
-Email
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RullzFuqi&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
-⚡ Fun Fact
-
-Senang eksplor teknologi baru tapi tetap menghargai cara tradisional.
-
-Fokus pada logika dan efisiensi kode, bukan sekadar tampilan.
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/RullzFuqi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+  <a href="https://wa.me/628xxxxxxx" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-plain.svg" height="50" />
+  </a>
+  <a href="https://instagram.com/RullzFuqi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+</p>
